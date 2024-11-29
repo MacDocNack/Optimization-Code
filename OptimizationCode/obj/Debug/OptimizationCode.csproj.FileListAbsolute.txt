@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\OptimizationCode\OptimizationCode\bin\Debug\OptimizationCode.exe.config
+C:\Users\User\source\repos\OptimizationCode\OptimizationCode\bin\Debug\OptimizationCode.exe
+C:\Users\User\source\repos\OptimizationCode\OptimizationCode\bin\Debug\OptimizationCode.pdb
+C:\Users\User\source\repos\OptimizationCode\OptimizationCode\obj\Debug\OptimizationCode.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\OptimizationCode\OptimizationCode\obj\Debug\OptimizationCode.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OptimizationCode\OptimizationCode\obj\Debug\OptimizationCode.exe
+C:\Users\User\source\repos\OptimizationCode\OptimizationCode\obj\Debug\OptimizationCode.pdb
